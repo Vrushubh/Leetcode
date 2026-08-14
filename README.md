@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vrushubh/Leetcode/tree/master/0035-search-insert-position) |
 | [1260-shift-2d-grid](https://github.com/Vrushubh/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vrushubh/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Vrushubh/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vrushubh/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Vrushubh/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
